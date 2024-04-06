@@ -58,17 +58,8 @@ We aggregate the results of all model training and the analysis of the learned r
 ### Prerequisites
 See `requirements.txt`
 
-## Authors
-* Taylor W. Killian [@twkillian](https://github.com/twkillian)
-* Haoran Zhang [@hzhang0](https://github.com/hzhang0)
-* Jaykumar Subramanian
-* Mehdi Fatemi
-* Marzyeh Ghassemi
-
 ## License
 
 The source code and documentation are licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT)
 
-## Questions or Feedback?
-Please don't hesitate to [log an issue](https://github.com/MLforHealth/rl_representations/issues) and we'll be as prompt as possible when responding.
 
